@@ -1,0 +1,24 @@
+dataset=AVEC
+workers=8
+epochs=25
+batch_size=8
+lr=0.0001
+weight_decay=0.0001
+print_freq=10
+milestones=[25]
+exper_name=FINAL_224
+temporal_layers=1
+img_size=224
+dataset=AVEC
+workers=8
+epochs=25
+batch_size=8
+lr=0.0001
+weight_decay=0.0001
+print_freq=10
+milestones=[25]
+exper_name=FINAL_224
+temporal_layers=1
+img_size=224
+******************** Epoch 0 ********************
+Current learning rate: 0.0001
